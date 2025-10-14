@@ -1,0 +1,1 @@
+https://sourceforge.net/projects/darknet-yolo.mirror/files/yolov4/yolov4.weights/?utm_source=chatgpt.com
