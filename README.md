@@ -1,20 +1,26 @@
 ## WORKSHOP-2-Object-detection-using-web-camera
 
-# NAME: AMRUTHAVARSHINI GOPAL
-# REGISTER NUMBER: 212223230013
+### NAME: AMRUTHAVARSHINI GOPAL
+### REGISTER NUMBER: 212223230013
 
-## AIM :
+### AIM :
+
 To perform real-time object detection using a trained YOLO v4 model through your laptop camera.
 
-## ALGORITHM :
-Load YOLO model and class files.
-Start webcam capture.
-Convert frame to blob and feed to model.
-Get detections and draw boxes.
-Show output until ‘q’ is pressed.
+### ALGORITHM :
+
+1)Load YOLO model and class files.
+
+2)Start webcam capture.
+
+3)Convert frame to blob and feed to model.
+
+4)Get detections and draw boxes.
+
+5)Show output until ‘q’ is pressed.
 
 
-## PROGRAM :
+### PROGRAM :
 ```
 # YOLOv4 Real-Time Detection in Jupyter (Smooth Display + Fixed NMS)
 
@@ -109,8 +115,11 @@ plt.close()
 ```
 
 ## OUTPUT:
-![Uploading Screenshot 2025-10-14 162235.png…]()
+
+<img width="971" height="720" alt="Screenshot 2025-10-14 162235" src="https://github.com/user-attachments/assets/a1ce1083-9423-44be-ad54-392c6f5c73fe" />
+
 
 
 ## RESULT:
+
 The real-time object detection using a trained YOLO v4 model through your laptop camera is executed and performed successfully.
